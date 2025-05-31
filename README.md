@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm [Uzair Khan]
 
-<!--
-**uzair1101-1/uzair1101-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Computer Science student passionate about web development and open source.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React and Node.js
+- 💼 Looking for internship opportunities
+- 🛠️ Tech Stack: HTML, CSS, JavaScript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 
+- 📧 niazipathan775@gmail.com
+
+## 🧰 Skills
+- 💻 Frontend: HTML, CSS, JavaScript, React
+- 🖥 Backend: Node.js, Express
+- 🗃️ Database: MongoDB, MySQL
+
+## 📂 Projects
+- [My Portfolio Website](https://github.com/uzair1101-1/portfolio-project)
+- [To-Do App](https://github.com/uzair1101-1/todo-app)
+
+## 🎉 Fun Facts
+- 🎸 I love playing guitar
+- 🌍 I speak 3 languages
+
+---
