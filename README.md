@@ -8,7 +8,7 @@ I'm a Computer Science student passionate about web development and open source.
 - 🛠️ Tech Stack: HTML, CSS, JavaScript, Python
 
 ## 📫 Contact Me
-- 
+- uzairniazi544@gmail.com
 - 📧 niazipathan775@gmail.com
 
 ## 🧰 Skills
